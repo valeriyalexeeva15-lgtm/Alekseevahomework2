@@ -57,6 +57,10 @@ fun main() {
 //        sum += i
 //    }
 //    println(sum)
+    //7
+//    for (i in 1..10) {
+//        println("Бросок $i: ${(1..6).random()}")
+//    }
 }
 
 
