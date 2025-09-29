@@ -61,7 +61,21 @@ fun main() {
 //    for (i in 1..10) {
 //        println("Бросок $i: ${(1..6).random()}")
 //    }
+    //8
+//    val num1=Random.nextInt(0, 6)
+//    println(num1)
+//    val num2=Random.nextInt(0, 6)
+//    println(num2)
+//    val num3=Random.nextInt(0, 6)
+//    println(num3)
+//    if (num1==num2 && num1==num3){
+//        println("ДЖЕКПОТ!")
+//    }
+//    else{
+//        println("В другой раз повезет")
+//    }
 }
+
 
 
 
