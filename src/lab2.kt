@@ -1,6 +1,6 @@
 import kotlin.random.Random
 fun main() {
-   //1
+    //1
 //    val num = Random.nextInt(1, 51)
 //    while (true) {
 //        print("Угадай число: ")
@@ -14,7 +14,7 @@ fun main() {
 //            }
 //        }
 //    }
-   //2
+    //2
 //    val string=readln()
 //    val a="аоуыэяюёиуе"
 //    var count=0
@@ -24,7 +24,7 @@ fun main() {
 //        }
 //    }
 //    println(count)
-   //3
+    //3
 //    var N=readln().toInt()
 //    while(N>1){
 //        N--
@@ -50,7 +50,15 @@ fun main() {
 //    println("Ответ 2: $two")
 //    println("Ответ 3: $three")
 //    print(list.random())
-
-
-
+    //6
+//    var N = readln().toInt()
+//    var sum=0
+//    for (i in 1..N) {
+//        sum += i
+//    }
+//    println(sum)
 }
+
+
+
+
