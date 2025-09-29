@@ -35,6 +35,22 @@ fun main() {
 //       val password = listOf(('A'..'Z').random(), ('a'..'z').random(), ('0'..'9').random(), "!@#$%^&*".random()) +
 //               List((4..12).random()) { chars.random() }
 //       println("Пароль: ${password.shuffled().joinToString("")}")
+    //5
+//    print("Введите имя: ")
+//    val name=readln()
+//    print("Вопрос 1: Ваша любимая книга? ")
+//    val one=readln()
+//    print("Вопрос 2: Ваше любимое блюдо? ")
+//    val two=readln()
+//    print("Вопрос 3: Ваша любимая страна? ")
+//    val list=listOf("Ты крутой!","Хорошая работа!" )
+//    val three=readln()
+//    println("Имя: $name")
+//    println("Ответ 1: $one")
+//    println("Ответ 2: $two")
+//    println("Ответ 3: $three")
+//    print(list.random())
+
 
 
 }
