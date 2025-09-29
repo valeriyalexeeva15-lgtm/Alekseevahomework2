@@ -14,4 +14,14 @@ fun main() {
 //            }
 //        }
 //    }
+//2
+//    val string=readln()
+//    val a="аоуыэяюёиуе"
+//    var count=0
+//    for (i in string){
+//        if (i in a){
+//         count++
+//        }
+//    }
+//    println(count)
 }
