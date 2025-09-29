@@ -1,6 +1,6 @@
 import kotlin.random.Random
 fun main() {
-//1
+   //1
 //    val num = Random.nextInt(1, 51)
 //    while (true) {
 //        print("Угадай число: ")
@@ -14,7 +14,7 @@ fun main() {
 //            }
 //        }
 //    }
-//2
+   //2
 //    val string=readln()
 //    val a="аоуыэяюёиуе"
 //    var count=0
@@ -24,12 +24,17 @@ fun main() {
 //        }
 //    }
 //    println(count)
-//3
-    var N=readln().toInt()
-    while(N>1){
-        N--
-        println(N)
-    }
+   //3
+//    var N=readln().toInt()
+//    while(N>1){
+//        N--
+//        println(N)
+//    }
+    //4
+//       val chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*"
+//       val password = listOf(('A'..'Z').random(), ('a'..'z').random(), ('0'..'9').random(), "!@#$%^&*".random()) +
+//               List((4..12).random()) { chars.random() }
+//       println("Пароль: ${password.shuffled().joinToString("")}")
 
 
 }
