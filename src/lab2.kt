@@ -24,4 +24,12 @@ fun main() {
 //        }
 //    }
 //    println(count)
+//3
+    var N=readln().toInt()
+    while(N>1){
+        N--
+        println(N)
+    }
+
+
 }
