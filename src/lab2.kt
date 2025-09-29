@@ -1,0 +1,17 @@
+import kotlin.random.Random
+fun main() {
+//1
+//    val num = Random.nextInt(1, 51)
+//    while (true) {
+//        print("Угадай число: ")
+//        val input = readln().toInt()
+//        when {
+//            input < num -> println("больше")
+//            input > num -> println("меньше")
+//            else -> {
+//                println("Поздравляю ты угадал число")
+//                break
+//            }
+//        }
+//    }
+}
