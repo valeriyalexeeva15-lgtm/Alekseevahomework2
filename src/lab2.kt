@@ -81,6 +81,15 @@ fun main() {
 //        money -= take
 //        println(money)
 //    }
+    //10
+        val days = listOf("Пн", "Вт", "Ср", "Чт", "Пт", "Сб", "Вс")
+        for (day in days) {
+            val temp = (-10..30).random()
+            if (temp < 0) {
+                println("$day: $temp°C")
+            }
+        }
+
 }
 
 
